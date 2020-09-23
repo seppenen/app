@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/db2d44c7-f429-4da2-8a7e-cf58fed130e4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tesga92923"
+}
